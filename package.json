@@ -1,6 +1,6 @@
 {
-  "name": "peernova-dagre-d3",
-  "version": "0.4.18",
+  "name": "pn-dagre-d3",
+  "version": "0.4.19",
   "description": "A D3-based renderer for Dagre",
   "author": "Nick Piscopio <nickp@peernova.com>",
   "keywords": [
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nickpiscopio-peernova/peernova-dagre-d3.git"
+    "url": "https://github.com/peernova/pn-dagre-d3.git"
   },
   "license": "MIT"
 }
