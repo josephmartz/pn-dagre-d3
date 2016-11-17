@@ -1,8 +1,8 @@
 {
-  "name": "dagre-d3",
-  "version": "0.4.18-pre",
+  "name": "peernova-dagre-d3",
+  "version": "0.4.18",
   "description": "A D3-based renderer for Dagre",
-  "author": "Chris Pettitt <chris@samsarin.com>",
+  "author": "Nick Piscopio <nickp@peernova.com>",
   "keywords": [
     "graph",
     "dagre",
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cpettitt/dagre-d3.git"
+    "url": "https://github.com/nickpiscopio-peernova/peernova-dagre-d3.git"
   },
   "license": "MIT"
 }
