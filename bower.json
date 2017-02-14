@@ -1,6 +1,6 @@
 {
   "name": "pn-dagre-d3",
-  "version": "0.4.20",
+  "version": "0.4.21",
   "main": [
     "dist/dagre-d3.core.js"
   ],
@@ -14,7 +14,6 @@
     "dist/demo/**",
     "index.js",
     "karma*",
-    "lib/**",
     "package.json",
     "src/**",
     "test/**"
